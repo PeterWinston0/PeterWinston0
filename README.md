@@ -6,8 +6,8 @@ I'm Peter Winston a Web Development Student at EASV. I Spend most of my time cod
 
 :mailbox: Reach me at!
 
-[![Linkedin Badge](https://img.shields.io/badge/-PeterWinston-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islem-maboud/) 
-[![Mail Badge](https://img.shields.io/badge/-itspeterwinston-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:islempenywis@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-PeterWinston-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peterwinston0/) 
+[![Mail Badge](https://img.shields.io/badge/-itspeterwinston-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:itspeterwinston@gmail.com)
 
 
 <!-- TODO: Add last video link -->
